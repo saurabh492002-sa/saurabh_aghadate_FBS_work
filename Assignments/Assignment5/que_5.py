@@ -1,1 +1,0 @@
-# 5. Write a program to print prime numbers between 1 to 100.
